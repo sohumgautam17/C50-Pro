@@ -1,0 +1,26 @@
+.menu {
+    background-color:black;
+    display:flex;
+    justify-content: space-between;
+
+}
+
+.bodyimg{
+    background-color:cadetblue;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.oragami{
+  
+    border-radius: 20px;
+    background-color:white;
+
+    width: 310px;
+    font-family: fantasy;
+}
